@@ -1,0 +1,5 @@
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\deps\libnum_enum-0e05bebebfd73772.rmeta: C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum-0.6.1\src\lib.rs
+
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\deps\num_enum-0e05bebebfd73772.d: C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum-0.6.1\src\lib.rs
+
+C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\num_enum-0.6.1\src\lib.rs:
