@@ -1,0 +1,11 @@
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\deps\liblibsecp256k1-9480098f32508700.rmeta: C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsecp256k1-0.6.0\src\lib.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const_gen.rs
+
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\deps\liblibsecp256k1-9480098f32508700.rlib: C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsecp256k1-0.6.0\src\lib.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const_gen.rs
+
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\deps\libsecp256k1-9480098f32508700.d: C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsecp256k1-0.6.0\src\lib.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const.rs C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const_gen.rs
+
+C:\Users\DIEN\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libsecp256k1-0.6.0\src\lib.rs:
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const.rs:
+C:\Users\DIEN\OneDrive\Documents\Code\Dapp\Maketplace_Decentralize_Application\time-shared-nft\target\debug\build\libsecp256k1-06ce0cb0d1c6264f\out/const_gen.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\DIEN\\OneDrive\\Documents\\Code\\Dapp\\Maketplace_Decentralize_Application\\time-shared-nft\\target\\debug\\build\\libsecp256k1-06ce0cb0d1c6264f\\out
