@@ -15,7 +15,10 @@ pub enum NftMarketplaceError {
 
     #[msg("Insufficient funds to complete the purchase.")]
     InsufficientFunds,
-
+    #[msg("The seller does not match the expected seller.")]
+        SellerMismatch,
+        
+    
     #[msg("Invalid metadata or URI.")]
     InvalidMetadata,
 
