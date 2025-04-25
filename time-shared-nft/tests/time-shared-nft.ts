@@ -1,6 +1,5 @@
 import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
-import { TimeSharedNft } from "../target/types/time_shared_nft";
 
 describe("time-shared-nft", () => {
   // Configure the client to use the local cluster.
